@@ -3,8 +3,7 @@
 **Design Link :** https://www.figma.com/design/lJOfT2BzwzTXnIbuWcyXD0/Event-Registration-App?node-id=51-168&t=6IEdphsaoVMVhB96-0
 
 
-
-
+**Prototype Link:** https://www.figma.com/proto/lJOfT2BzwzTXnIbuWcyXD0/Event-Registration-App?t=nkRHXoW85pqd21rP-1
 
 
 # 💜 CollegeFest – Multiple College, One Platform
