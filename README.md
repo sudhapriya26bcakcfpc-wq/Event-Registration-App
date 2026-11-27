@@ -251,8 +251,15 @@ The application provides a simple, attractive, and user-friendly interface with 
 
 ### 👩‍💻 Developed By
 
+
 **Sudhapriya M**  
+
+
 **I BCA – A**  
+
+
 **Kamaraj College**
+
+
 
 💜✨ *CollegeFest – Celebrate Talent, Connect Colleges, Create Memories!* 🎉
